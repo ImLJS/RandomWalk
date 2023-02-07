@@ -13,12 +13,6 @@ This project is a random walk generator built using Python and the Turtle Graphi
 2. Navigate to the project directory
 3. Run the following command in your terminal: `python random_walk.py`
 
-## Features - Under Development
-
-- Ability to adjust the number of steps in the random walk
-- Ability to change the pen color and width
-- Ability to set a maximum boundary for the random walk
-
 ## Customization
 
 You can customize the program by adjusting the parameters in the `random_walk.py` file. 
